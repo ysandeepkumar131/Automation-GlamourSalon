@@ -8,7 +8,7 @@ import PageEvent.LoginPageEvents;
 import base.BaseTest;
 import utils.ElementFetch;
 
-public class Testcase1 extends BaseTest {
+public class LoginTest extends BaseTest {
  
 	ElementFetch ele=new ElementFetch();
 	HomePageEvents homePage=new HomePageEvents();
