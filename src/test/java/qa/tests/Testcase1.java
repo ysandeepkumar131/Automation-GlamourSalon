@@ -22,9 +22,4 @@ public class Testcase1 extends BaseTest {
 		
 		
   }
-	@Test
-	
-	public void LoginTest() {
-		LoginPageEvents
-	}
 }
